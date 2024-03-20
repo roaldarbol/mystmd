@@ -1,5 +1,11 @@
 # myst-transforms
 
+## 1.3.1
+
+### Patch Changes
+
+- myst-to-html@1.2.0
+
 ## 1.3.0
 
 ### Minor Changes

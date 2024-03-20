@@ -1,5 +1,11 @@
 # myst-roles
 
+## 1.2.0
+
+### Minor Changes
+
+- e07d55a0: Add `kbd`/`keyboard` role
+
 ## 1.1.0
 
 ### Patch Changes

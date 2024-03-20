@@ -1,5 +1,11 @@
 # myst-to-typst
 
+## 0.0.12
+
+### Patch Changes
+
+- 03914dff: Wrap non-identifier citations in `label()`
+
 ## 0.0.11
 
 ### Patch Changes

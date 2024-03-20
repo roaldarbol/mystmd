@@ -1,5 +1,11 @@
 # myst-to-tex
 
+## 1.0.23
+
+### Patch Changes
+
+- 1b3c9e24: Properly handle AMS environments, and no longer wrap with equation environment.
+
 ## 1.0.22
 
 ### Patch Changes
